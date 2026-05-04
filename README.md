@@ -8,12 +8,15 @@ Welcome to my personal portfolio website.
 - Passionate about coding and problem solving
 
 ## 💻 Tech Stack
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript,Java,python
 
 ## 📂 Projects
 - Portfolio Website
-- Banking Bot
+- Video Conferencing App
+- DigiRecyler
+- Stockify
 
 ## 📫 Contact
-- LinkedIn: your-link
-- Email: your-email
+- LinkedIn: https://github.com/DarshanaSonawane
+
+- Email: darshanasonawane8572@gmail.com
